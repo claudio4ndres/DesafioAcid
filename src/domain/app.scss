@@ -1,9 +1,14 @@
 $font-size: 12px;
+$background-color: #f8f8f8;
 
 .Main{
-    .container-page{
-        .page{
-
+    display: grid;
+      .container-page{
+          width: 100%;
+         .page{
+            padding-bottom: 64px;
+            width: 75%;
+            margin: 0 auto;
         }
     }
 }

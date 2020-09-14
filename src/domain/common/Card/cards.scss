@@ -1,0 +1,19 @@
+.card-container{
+    background-color: white;
+    .card{
+        width: 32%;
+        display: inline-block;
+        margin: 5px;
+        border: 1px solid rgba(35,52,89,0.08);
+        height: 100px;
+        box-sizing: border-box;
+        button{
+            background: none;
+            width: 100%;
+            padding: 12%;
+            border: none;
+            cursor: pointer;
+        }
+        
+    }
+}

@@ -1,0 +1,15 @@
+.Header {
+  background-color: #f42534;
+  height: 60px;
+  display: grid;
+  align-items: center;
+  padding-left: 10%;
+}
+
+.Header__logo {
+  width: 157px;
+  margin: 0;
+  img {
+    width: 100%;
+  }
+}
